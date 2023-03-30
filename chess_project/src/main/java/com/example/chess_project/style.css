@@ -1,0 +1,71 @@
+.black_pawn {
+    -fx-background-image: url('pieces/blackPawn.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.black_rook {
+    -fx-background-image: url('pieces/blackRook.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.black_knight {
+    -fx-background-image: url('pieces/blackKnight.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.black_bishop {
+    -fx-background-image: url('pieces/blackBishop.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.black_queen {
+    -fx-background-image: url('pieces/blackQueen.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.black_king {
+    -fx-background-image: url('pieces/blackKing.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.white_pawn {
+    -fx-background-image: url('pieces/whitePawn.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.white_rook {
+    -fx-background-image: url('pieces/whiteRook.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.white_knight {
+    -fx-background-image: url('pieces/whiteKnight.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.white_bishop {
+    -fx-background-image: url('pieces/whiteBishop.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.white_queen {
+    -fx-background-image: url('pieces/whiteQueen.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.white_king {
+    -fx-background-image: url('pieces/whiteKing.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
